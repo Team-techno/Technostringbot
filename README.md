@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot [@Techno_string_bot](https://t.me/Techno_string_bot)
+# Pyrogram and Telethon String Session Bot [@Techno_string_session_bot](https://t.me/Techno_string_session_bot)
 
 > A star ⭐ from you means a lot to us!
 
